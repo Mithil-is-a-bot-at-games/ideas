@@ -1,0 +1,20 @@
+1. social media
+2. games
+3. entrtainment
+4. contacts
+
+
+Ideas:
+voice changer
+weather notification app?
+project archive
+collision sim
+
+
+Elaboration:
+Voice Changer: Test will be input into a text box. Computer will then take that text and turn it inot speech. Filters can also be used to make the experience more fun
+(i.e alien, radio, distorted, echo, etc)
+
+Weather App: Put information about area code into app. Will take information about weather report about that day and push it into the lock screen on IOS and Android. 
+This short weather summary will include things about the Lows, Highs, whether it is going to be sunny,cloudy,partly cloudy, rainy, snowy, or storming. By navigating
+into the app, one can find a much more more detailed description about what will be happening that day. This notification will be sent out at any time to the users' liking
